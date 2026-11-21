@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Srushtik Shetty monogram">
+  <rect width="64" height="64" rx="16" fill="#101113"/>
+  <rect x="4" y="4" width="56" height="56" rx="12" fill="none" stroke="#D2B17A" stroke-width="1.5"/>
+  <path d="M18 18h9.5c7.3 0 12.2 3.8 12.2 9.7 0 5.6-4.3 9.3-12 9.3H18v-19zm9 12.6h1.1c4.6 0 7.1-2 7.1-5.3 0-3.4-2.5-5.1-7.2-5.1H18v10.4h9zm18-12.6h-7.3v19h7.3v-3.6H41v-11.8h4.1V18z" fill="#DAD9D4"/>
+</svg>
